@@ -22,6 +22,6 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 
 - I'm a 🌞 _morning person_
 - [Loved in Minecraft](https://loved-minecraft.tumblr.com/)
-- Fan of: ☕ coffee, Pusheen, 7 Days to Die, 🎵 hard rock & pop punk, [reading](https://www.goodreads.com/virtual), and lavendar 
+- Fan of: ☕ coffee, Pusheen, 7 Days to Die, 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
 - Usually developing in: Jigsaw (PHP) or Hugo with Bootstrap 4
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
