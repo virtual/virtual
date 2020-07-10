@@ -3,7 +3,6 @@
 Hello from Montana, USA! I'm a front-end developer for highed web and an official OU Campus partner. I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills. 
 
 - Find me at https://twitter.com/satinflame
-- See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 - [Contact me (satinflame design)](https://www.satinflame.com/contact/) for assistance with your OU Campus web projects 
 
 ### 📚 Projects
