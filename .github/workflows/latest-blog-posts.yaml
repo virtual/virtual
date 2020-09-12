@@ -1,8 +1,8 @@
 name: latest blog posts
 on:
   schedule:
-   - cron: '15 22 * * 3'
-    # Every Wednesday at 22:15 👻
+   - cron: '0 0 * * *'
+    # every day at midnight
 jobs:
   latest-blog-posts:
     name: Latest blog posts
