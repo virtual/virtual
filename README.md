@@ -26,7 +26,7 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 - Usually developing in: Jigsaw (PHP) or Hugo with Bootstrap 4
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
-### ✒️ Recent articles:
+### ✒️ Recent articles
 
 - [Using Image Sets to Create Responsive Images in OU Campus](https://www.satinflame.com/blog/2020/08/creating-responsive-images-in-ou-campus/)
 - [Creating Flexible Contact Snippets in OU Campus](https://www.satinflame.com/blog/2020/05/creating-flexible-contact-boxes-in-ou-campus/)

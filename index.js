@@ -14,7 +14,7 @@ const updateFeed = async () => {
   try {
     // Get original content
     const currentReadme = fs.readFileSync("./README.md", "utf8");
-    const articlesTitle = "### ✒️ Recent articles:";
+    const articlesTitle = "### ✒️ Recent articles";
 
     // Find where articles are and split off old ones
     let updatedReadme = currentReadme.split(articlesTitle)[0] + articlesTitle + "\n\n";
