@@ -19,7 +19,8 @@
     "url": "https://github.com/virtual/virtual/issues"
   },
   "homepage": "https://github.com/virtual/virtual#readme",
-  "dependencies": { 
+  "dependencies": {
+    "fs": "0.0.1-security",
     "rss-parser": "^3.9.0"
   }
 }

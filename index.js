@@ -23,7 +23,7 @@ const updateFeed = async () => {
     let i = 0;
     // Append new items
     feed.items.forEach(item => {
-      if (i < 4) {
+      if (i < 3) {
         updatedReadme += '- [' + item.title + '](' + item.link +')\n';
       }
       i++;
