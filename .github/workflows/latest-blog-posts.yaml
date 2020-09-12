@@ -1,0 +1,24 @@
+name: latest blog posts
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+    # Every Sunday at 06:30: 30 6 * * 7
+jobs:
+  latest-blog-posts:
+    name: Latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '13'
+      - name: Install node dependencies
+        run: npm install
+      - name: Run script that gets latest blog posts
+        run: npm run feed
+      - name: Git setup
+        run: git config --global user.email jeanine.mt@gmail.com && git config --global user.name readme-bot
+      - name: Git commit README.md file
+        run: git commit -am "BOT Update readme" && git push

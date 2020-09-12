@@ -1,0 +1,25 @@
+{
+  "name": "virtual",
+  "version": "1.0.0",
+  "description": "Hello from Montana, USA! I'm a front-end developer for highed web and an official OU Campus partner. I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "feed": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtual/virtual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtual/virtual/issues"
+  },
+  "homepage": "https://github.com/virtual/virtual#readme",
+  "dependencies": { 
+    "rss-parser": "^3.9.0"
+  }
+}
