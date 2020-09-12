@@ -1,8 +1,8 @@
 name: latest blog posts
 on:
   schedule:
-    - cron: '30 6 * * 7'
-    # Every Sunday at 06:30: 30 6 * * 7
+   - cron: '15 22 * * 3'
+    # Every Wednesday at 22:15 👻
 jobs:
   latest-blog-posts:
     name: Latest blog posts
