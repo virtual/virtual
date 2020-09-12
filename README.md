@@ -31,4 +31,3 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 - [Using Image Sets to Create Responsive Images in OU Campus](https://www.satinflame.com/blog/2020/08/creating-responsive-images-in-ou-campus/)
 - [Creating Flexible Contact Snippets in OU Campus](https://www.satinflame.com/blog/2020/05/creating-flexible-contact-boxes-in-ou-campus/)
 - [Approving Pages in OU Campus](https://www.satinflame.com/blog/2020/01/approving-pages-oucampus/)
-- [Top 5 Ways to Use Videos for College Recruitment](https://www.satinflame.com/blog/2019/11/top-5-ways-to-use-videos-for-college-recruitment/)
