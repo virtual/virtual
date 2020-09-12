@@ -1,7 +1,7 @@
 name: latest blog posts
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* * * * *'
     # Every Sunday at 06:30: 30 6 * * 7
 jobs:
   latest-blog-posts:
