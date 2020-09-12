@@ -1,5 +1,9 @@
-let fs = require('fs');
-let Parser = require('rss-parser'); 
+// To run on github:
+import fs from 'fs';
+import Parser from 'rss-parser'; 
+
+// let fs = require('fs');
+// let Parser = require('rss-parser'); 
 
 // Reference https://github.com/harrisgeo88/harrisgeo88/
 // For more magic
