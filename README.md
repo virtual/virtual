@@ -26,6 +26,10 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 - Usually developing in: Jigsaw (PHP) or Hugo with Bootstrap 4
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
+### 🔢 GitHub Stats
+
+![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=default_repocard&count_private=true&show_icons=true&hide_border=true&hide_title=true)
+
 ### ✒️ Recent articles
 
 - [Using Image Sets to Create Responsive Images in OU Campus](https://www.satinflame.com/blog/2020/08/creating-responsive-images-in-ou-campus/)
