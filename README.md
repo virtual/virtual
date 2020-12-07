@@ -30,10 +30,6 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 
 ![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=default_repocard&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
-### ⏰ WakaTime Weekly Stats
-
-![Virtual's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=virtual&show_icons=true&theme=default_repocard&count_private=true&show_icons=true&hide_border=true&hide_title=true)
-
 ### ✒️ Recent articles
 
 - [HighEdWeb20 Golden Nuggets](https://www.satinflame.com/blog/2020/10/high-ed-web-2020-golden-nuggets/)
