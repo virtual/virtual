@@ -1,9 +1,8 @@
 ## ✨ About ✨
 
-Hello from Montana, USA! I'm a front-end developer for highed web and an official OU Campus partner. I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills. 
+Hello from Montana, USA! I'm a web engineer for [Khoros](https://khoros.com/services/professional-services). I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills. 
 
 - Find me at https://twitter.com/satinflame
-- [Contact me (satinflame design)](https://www.satinflame.com/contact/) for assistance with your OU Campus web projects 
 
 ### 📚 Projects
 
@@ -13,10 +12,11 @@ Hello from Montana, USA! I'm a front-end developer for highed web and an officia
 
 ### 🌈 Learning
 
+- [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
 - Blue Array Academy: SEO Certificate
-- [R3 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
+- [R4 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
 
 ### 🎲 Random
 
