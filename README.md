@@ -30,8 +30,6 @@ Hello from Montana, USA! I'm a web engineer for [Khoros](https://khoros.com/serv
 
 ![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=default_repocard&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
-### ✒️ Recent articles
+### ✒️ 🎵 Music
 
-- [HighEdWeb20 Golden Nuggets](https://www.satinflame.com/blog/2020/10/high-ed-web-2020-golden-nuggets/)
-- [Using Image Sets to Create Responsive Images in OU Campus](https://www.satinflame.com/blog/2020/08/creating-responsive-images-in-ou-campus/)
-- [Creating Flexible Contact Snippets in OU Campus](https://www.satinflame.com/blog/2020/05/creating-flexible-contact-boxes-in-ou-campus/)
+![satinflame on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=satinflame&width=450)
