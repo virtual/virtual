@@ -28,7 +28,7 @@ Hello from Montana, USA! I'm a web engineer for [Khoros](https://khoros.com/serv
 
 ### 🔢 GitHub Stats
 
-![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=default_repocard&count_private=true&show_icons=true&hide_border=true&hide_title=true)
+![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=gruvbox&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
 ### 🎵 Music
 
