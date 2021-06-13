@@ -32,4 +32,4 @@ Hello from Montana, USA! I'm a web engineer for [Khoros](https://khoros.com/serv
 
 ### 🎵 Music
 
-![satinflame on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=satinflame&width=450)
+[![satinflame on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=satinflame&width=450)](https://open.spotify.com/user/satinflame)
