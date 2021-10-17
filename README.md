@@ -12,11 +12,10 @@ Hello from Montana, USA! I'm a front-end developer for [Khoros](https://khoros.c
 
 ### 🌈  Learning
 
-- [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- [HarvardX's CS50x](https://learning.edx.org/course/course-v1:HarvardX+CS50+X)
 - [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
-- Blue Array Academy: SEO Certificate
-- [R4 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
+- [Finished R4 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
 
 ### 🎲  Random
 
