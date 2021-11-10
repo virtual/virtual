@@ -22,7 +22,7 @@ Hello from Montana, USA! I'm a front-end developer for [Khoros](https://khoros.c
 - I'm a 🌞 _morning person_
 - [Loved in Minecraft](https://loved-minecraft.tumblr.com/)
 - Fan of: ☕ coffee, Pusheen, 7 Days to Die, MapleStory, 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
-- Usually developing personal proejcts in: Jigsaw (PHP) or Hugo with Bootstrap 4
+- Usually developing personal projects in: Jigsaw (PHP) or Hugo with Bootstrap 4
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
 ### 🔢  GitHub Stats
