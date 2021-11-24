@@ -27,7 +27,7 @@ Hello from Montana, USA! I'm a front-end developer for [Khoros](https://khoros.c
 
 ### 🔢  GitHub Stats
 
-![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=gruvbox&count_private=true&show_icons=true&hide_border=true&hide_title=true)
+![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtual&show_icons=true&theme=gruvbox&count_private=true&show_icons=true&hide_border=true&hide_title=true&hide_rank=true)
 
 ### 🎵 Music
 
