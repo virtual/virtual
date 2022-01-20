@@ -6,23 +6,22 @@ Hello from Montana, USA! I'm a front-end developer for [Khoros](https://khoros.c
 
 ### 📚  Projects
 
+- [Distant Life Repo](https://github.com/virtual/distantlife), [Site](https://distantlife.com/) - Raise virtual pets while improving your language skills
 - [Shoreline Community College homepage redesign](https://github.com/virtual/shoreline)
-- [Cascadin - tools for team members to easily manage their projects](https://www.cascadin.com/)
 - [Apps and Tiny Tools](https://www.satinflame.com/blog/2018/04/apps-and-tiny-tools/)
 
 ### 🌈  Learning
 
-- [HarvardX's CS50x](https://learning.edx.org/course/course-v1:HarvardX+CS50+X)
-- [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+- [R5 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
+- [Finished HarvardX's CS50x](https://virtual.github.io/100daysofcode/cs50)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
-- [Finished R4 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
 
 ### 🎲  Random
 
 - I'm a 🌞 _morning person_
 - [Loved in Minecraft](https://loved-minecraft.tumblr.com/)
 - Fan of: ☕ coffee, Pusheen, 7 Days to Die, MapleStory, 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
-- Usually developing personal projects in: Jigsaw (PHP) or Hugo with Bootstrap 4
+- Usually developing personal projects in: Python, Jigsaw Blade Templates (PHP) or Hugo with Bootstrap
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
 ### 🔢  GitHub Stats
