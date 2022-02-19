@@ -1,6 +1,6 @@
 ## ✨ About ✨
 
-Hello from Montana, USA! I'm a front-end developer for [Khoros](https://khoros.com/services/professional-services). I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills. 
+Hello from Montana, USA! I'm a senior front-end developer for [Khoros](https://khoros.com/services/professional-services). I'm always aspiring to learn more about front-end and back-end dev and improve my graphic design skills. 
 
 - Find me at https://twitter.com/satinflame
 
