@@ -12,15 +12,14 @@ Hello from Montana, USA! I'm a senior front-end developer for [Khoros](https://k
 
 ### 🌈  Learning
 
-- [R5 of #100DaysOfCode](https://virtual.github.io/100daysofcode/)
 - [Finished HarvardX's CS50x](https://virtual.github.io/100daysofcode/cs50)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
+- [#100DaysOfCode](https://virtual.github.io/100daysofcode/)
 
 ### 🎲  Random
 
 - I'm a 🌞 _morning person_
-- [Loved in Minecraft](https://loved-minecraft.tumblr.com/)
-- Fan of: ☕ coffee, Pusheen, 7 Days to Die, MapleStory, 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
+- Fan of: ☕ coffee, Pusheen, Lost Ark, MapleStory, [Minecraft](https://loved-minecraft.tumblr.com/), 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
 - Usually developing personal projects in: Python, Jigsaw Blade Templates (PHP) or Hugo with Bootstrap
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
