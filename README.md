@@ -17,7 +17,7 @@ Hello from Montana, USA! I'm a senior front-end developer. I'm always aspiring t
 ### 🎲  Random
 
 - I'm a 🌞 _morning person_
-- Fan of: ☕ coffee, Pusheen, Lost Ark, MapleStory, [Minecraft](https://loved-minecraft.tumblr.com/), 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavendar 
+- Fan of: ☕ coffee, Pusheen, MapleStory, [Minecraft](https://loved-minecraft.tumblr.com/), 🎵 [hard rock & pop punk](https://www.last.fm/user/satinflame), [reading](https://www.goodreads.com/virtual), and lavender 
 - Usually developing personal projects in: Python, Jigsaw Blade Templates (PHP) or Hugo with Bootstrap
 - See my [app, plugins and software uses](https://www.satinflame.com/uses/)
 
