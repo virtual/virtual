@@ -10,6 +10,7 @@ Hello from Montana, USA! I'm a senior front-end developer. I'm always aspiring t
 
 ### 🌈  Learning
 
+- Computer Science at Western Governors University
 - [Finished HarvardX's CS50x](https://virtual.github.io/100daysofcode/cs50)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
 - [#100DaysOfCode](https://virtual.github.io/100daysofcode/)
