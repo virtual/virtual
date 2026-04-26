@@ -10,7 +10,8 @@ Hello from Montana, USA! I'm a senior front-end developer. I'm always aspiring t
 
 ### 🌈  Learning
 
-- Computer Science at Western Governors University
+- Studying for IAAP [https://www.accessibilityassociation.org/](CPACC)
+- 🎓 BS Computer Science at Western Governors University - March 2026
 - [Finished HarvardX's CS50x](https://virtual.github.io/100daysofcode/cs50)
 - [Learn UI Design](https://learnui.design/) with Erik Kennedy
 - [#100DaysOfCode](https://virtual.github.io/100daysofcode/)
@@ -29,8 +30,3 @@ Hello from Montana, USA! I'm a senior front-end developer. I'm always aspiring t
 ### 🎵 Music
 
 [![satinflame on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=satinflame&width=450&count=3)](https://open.spotify.com/user/satinflame)
-### ✒️ Recent articles
-
-- [HighEdWeb20 Golden Nuggets](https://www.satinflame.com/blog/2020/10/high-ed-web-2020-golden-nuggets/)
-- [Using Image Sets to Create Responsive Images in OU Campus](https://www.satinflame.com/blog/2020/08/creating-responsive-images-in-ou-campus/)
-- [Creating Flexible Contact Snippets in OU Campus](https://www.satinflame.com/blog/2020/05/creating-flexible-contact-boxes-in-ou-campus/)
